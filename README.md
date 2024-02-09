@@ -23,7 +23,7 @@
 * **Actualice el sistema operativo:** Asegúrese de tener la última versión de Windows Server instalada.
 * **Instale el paquete de .NET Framework 4.8:** Icinga requiere .NET Framework para funcionar.
 * **Instale el módulo de Windows PowerShell ISE:** Se utiliza para ejecutar scripts de PowerShell para la configuración.
-* **Descargue los archivos de instalación:** Obtenga la última versión de Icinga desde el sitio web oficial: <se quitó una URL no válida>.
+* **Descargue los archivos de instalación:** Obtenga la última versión de Icinga desde el sitio web oficial: https://icinga.com/get-started/download/
 
 **Instalación de Icinga:**
 
