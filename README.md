@@ -14,7 +14,7 @@
 	Sistemas y distros con versiones necesarias.  
  ## 2.4  Requisitos tanto de agentes como de máquinas de monitoreo.
  ## 2.5  Esquema de Red (entorno). Máquinas, dirección de la red, IP’s, S.O. de las máquinas, servicios instalados. 
-![esquema](Diagrama sin título.drawio)
+![esquema](diagrama.png)
 ## 2.6  Instalación y configuración en máquinas a monitorizar.
 ### Instalación y Configuración de Icinga en un Servidor Windows
 
