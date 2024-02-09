@@ -14,8 +14,7 @@
 	Sistemas y distros con versiones necesarias.  
  ## 2.4  Requisitos tanto de agentes como de máquinas de monitoreo.
  ## 2.5  Esquema de Red (entorno). Máquinas, dirección de la red, IP’s, S.O. de las máquinas, servicios instalados. 
-- Escenario/esquema de red:  especificar todo (IP, SO, sw instalado, etc)
-Nota: Indicar posibles escenarios, p.ej en  Zabbix hay 3 escenarios posibles: Agent, Agent-less y Agent con proxy
+![esquema](Diagrama sin título.drawio)
 ## 2.6  Instalación y configuración en máquinas a monitorizar.
 ### Instalación y Configuración de Icinga en un Servidor Windows
 
@@ -50,14 +49,9 @@ Nota: Indicar posibles escenarios, p.ej en  Zabbix hay 3 escenarios posibles: Ag
 
 **Recursos adicionales:**
 
-* Documentación oficial de Icinga: <se quitó una URL no válida>
-* Tutoriales de Icinga: <se quitó una URL no válida>
-* Foro de la comunidad de Icinga: <se quitó una URL no válida>
-
-**Nota:** La instalación y configuración de Icinga en un servidor Windows puede ser un proceso complejo. Se recomienda tener experiencia con Windows Server, PowerShell y la configuración de software antes de comenzar.
-
-- Instalación : indiquen las versiones de toda la paquetería que instalan. (captura de pantalla de systemctl -status de cada servicio)
-o  mediante script en las máquinas de la red a monitorizar.
+* Documentación oficial de Icinga: https://icinga.com/docs/icinga-2/latest/doc/04-configuration/
+* Tutoriales de Icinga: https://www.youtube.com/watch?v=gmv66GIA0l8
+* Foro de la comunidad de Icinga: https://community.icinga.com
 
 # 3. Instalación y configuración en máquinas a monitorizar (agentes) y remotas.
  ## 3.1  Instalación y configuración en agentes 
